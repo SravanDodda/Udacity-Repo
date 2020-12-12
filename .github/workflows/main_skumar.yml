@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'skumar'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_446b914c16474e7fb0a6d62d756dfefd }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c74318e7827246a5bd87deb2caf5b569 }}
